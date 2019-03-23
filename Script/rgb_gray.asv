@@ -1,0 +1,3 @@
+RGB = imread('D:/MY IMAGE/CITRA/peppers.png');
+GRAY = rgb2gray(RGB);
+subplot(
